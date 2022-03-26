@@ -1,1 +1,3 @@
 # EmotionAndMemory
+
+For our project, we wanted to analyze data on an individual's ability to comprehend and recall information and see if their ability to execute these tasks are influenced by either positive or negative sentiment. We decided to split the data between age groups and divided them into 3 buckets: 18-25, 30-40, 45-55 as well as splitting the data between 3 columns: recalled, imagined and retold. We focused on specific columns of information from the dataset such as age, draining, distracted similarity, etc, that can potentially influence one’s ability to comprehend and recall information. We took an approach using these variables to simultaneously analyze memory recollection as well as sentiment for individuals.
